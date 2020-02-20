@@ -3,7 +3,7 @@ Low-poly svg map
 
 # See it live
 
-[https://lukaszkups.net/experience/](https://lukaszkups.net/experience/)
+![img](https://github.com/lukaszkups/svg-map/blob/master/map.svg)
 
 # License
 
